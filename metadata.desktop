@@ -1,15 +1,13 @@
 [Desktop Entry]
-Comment=Disable Panel Visibility From Screen Edge When Window Is Maximized
-Icon=alien-arena
-Name=Disable on mouse panel appear when windows maximized
+Comment=Adds a shortcut to toggle the visibility of the menu bar
+Icon=kdevelop
+Name=Menu Bar Toggler
 Type=Service
-X-KDE-PluginInfo-Author=tren3f
-X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-Email=tren3f@gmail.com
-X-KDE-PluginInfo-License=MIT
-X-KDE-PluginInfo-Name=disablepanelapperinmaximizedwindow
+X-KDE-PluginInfo-Author=Simon Tran
+X-KDE-PluginInfo-Name=menu-bar-toggler
 X-KDE-PluginInfo-Version=0.1
-X-KDE-PluginKeyword=kwndisablehotconers
+X-KDE-PluginKeyword=menu-bar-toggler
+X-KDE-PluginInfo-License=GPL
 X-KDE-ServiceTypes=KWin/Script
 X-KWin-Border-Activate=true
 X-Plasma-API=javascript

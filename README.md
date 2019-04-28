@@ -1,1 +1,12 @@
-Plasma has default setting "Windows Can Cover" but this is not enough if you consider annoying panel appear when you move you mouse to her edge.   This script depend on "Windows Can Cover" option so it must be enabled.    I test this with virtual desktops but not with different displays so it could have some bugs. Also if you press meta key while in maximized window just press it one more time when you don't need it but if you don't do this it's okay because panel hides when new actions(maximized, minimized, removed, activated, etc) comes. 
+Adds a shortcut entry to toggle the menu bar (Panel) visibility
+
+Created from the ["Disable on mouse panel appear when windows maximized"](https://store.kde.org/p/1292217) script from the openDesktop.org user "nicecoder". Original code available [here](https://github.com/gladiko/panelDisabler)
+
+
+#How to use
+
+Install the script, then modify the "Toggle Menu Bar" kwin shortcut in global shortcuts
+
+
+
+
